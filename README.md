@@ -9,4 +9,4 @@ MONGODB_URI=mongodb://localhost:27017/data-ingestion
 
 
 Start the server:
-npm start
+npm server.js
